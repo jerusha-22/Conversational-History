@@ -4,7 +4,7 @@ An AI-powered chatbot that lets users have conversations with famous historical 
 
 ## 👤 Author
 - Name: Jerusha M Rajan
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [jerusha-22](https://github.com/jerusha-22)
 
 ## 📅 Date of Completion
 July 27, 2025
